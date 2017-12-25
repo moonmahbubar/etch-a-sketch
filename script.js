@@ -52,6 +52,7 @@ function reset() {
 
 //creates grid and adds event listener;
 function start() {
+    while (div.firstChild) div.removeChild(div.firstChild); //clears all the divs inside wrapper;
     const length = prompt('Please choose the size of the grid');
     createSquares(length);
     changeColor('#212121');

@@ -33,7 +33,6 @@ div.buttonwrapper > button:hover {
 .wrapper {
     box-shadow: 13px 16px 31px -2px rgba(99,98,99,0.51);
     border-radius: 5px;
-    border: 1px solid black;
     display: grid;
     width: 700px;
     height: 700px;
