@@ -37,7 +37,6 @@ div.buttonwrapper > button:hover {
     width: 700px;
     height: 700px;
     margin: 0 auto;
-    grid-gap: 1px;
     /* grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: repeat(1fr, 9); */
 }
